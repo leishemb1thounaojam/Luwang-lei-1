@@ -1,0 +1,18 @@
+h1{
+    font-family: "Gill Sans";
+    font-size: 4em;
+    font-style: oblique;
+}
+img{
+    position:relative;
+    
+    
+   transform: translateX(100px -100px);
+
+}
+pre::selection{
+    color:skyblue;
+}
+pre::first-line{
+    font-style:italic;
+}
